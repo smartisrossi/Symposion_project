@@ -1,0 +1,41 @@
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\bin\Debug\SecurityManager.exe.config
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\bin\Debug\SecurityManager.exe
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.exe
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.HomeView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.GestioneConfigurazioniView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.HomeLogView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.InstallaAggiornamentiView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.LogAccessiView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.LogOperazioniView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.SceltaDate.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.SceltaIntervallo.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.SistemaOperativoView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\GestoreSicurezza-Client\SecurityManager\SecurityManager\obj\Debug\SecurityManager.StatoSistemaView.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\bin\Debug\SecurityManager.exe.config
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\bin\Debug\SecurityManager.exe
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.csprojAssemblyReference.cache
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.Properties.Resources.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.GestioneConfigurazioniView.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.HomeView.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.HomeLogView.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.InstallaAggiornamentiView.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.LogAccessiView.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.LogOperazioniView.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.SceltaDate.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.SceltaIntervallo.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.SistemaOperativoView.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.StatoSistemaView.resources
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.csproj.CopyComplete
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.exe
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SecurityManager\obj\Debug\SecurityManager.pdb

@@ -1,0 +1,7 @@
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SymposionGestoreSicurezzaClient\bin\Debug\SymposionGestoreSicurezzaClient.exe.config
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SymposionGestoreSicurezzaClient\bin\Debug\SymposionGestoreSicurezzaClient.exe
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SymposionGestoreSicurezzaClient\bin\Debug\SymposionGestoreSicurezzaClient.pdb
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SymposionGestoreSicurezzaClient\obj\Debug\SymposionGestoreSicurezzaClient.csproj.CoreCompileInputs.cache
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SymposionGestoreSicurezzaClient\obj\Debug\SymposionGestoreSicurezzaClient.exe
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SymposionGestoreSicurezzaClient\obj\Debug\SymposionGestoreSicurezzaClient.pdb
+C:\Users\mmart\source\repos\SymposionGestoreSicurezza\SymposionGestoreSicurezzaClient\obj\Debug\SymposionGestoreSicurezzaClient.csprojAssemblyReference.cache

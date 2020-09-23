@@ -1,0 +1,16 @@
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\bin\Debug\SymposionAmministratoreClient.exe.config
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\bin\Debug\SymposionAmministratoreClient.exe
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\bin\Debug\SymposionAmministratoreClient.pdb
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\obj\Debug\SymposionAmministratoreClient.csprojAssemblyReference.cache
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\obj\Debug\SymposionAmministratoreClient.csproj.CoreCompileInputs.cache
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\obj\Debug\SymposionAmministratoreClient.exe
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\obj\Debug\SymposionAmministratoreClient.pdb
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\bin\Debug\Antlr3.Runtime.dll
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\bin\Debug\Iesi.Collections.dll
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\bin\Debug\Remotion.Linq.dll
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\bin\Debug\Antlr3.Runtime.xml
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\bin\Debug\Iesi.Collections.xml
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\bin\Debug\Remotion.Linq.xml
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\mmart\source\repos\SymposionAmministratore\SymposionAmministratoreClient\obj\Debug\SymposionAmministratoreClient.csproj.CopyComplete

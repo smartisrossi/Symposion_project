@@ -1,0 +1,7 @@
+C:\Users\mmart\source\repos\Symposion\SymposionClient\bin\Debug\SymposionClient.exe.config
+C:\Users\mmart\source\repos\Symposion\SymposionClient\bin\Debug\SymposionClient.exe
+C:\Users\mmart\source\repos\Symposion\SymposionClient\bin\Debug\SymposionClient.pdb
+C:\Users\mmart\source\repos\Symposion\SymposionClient\obj\Debug\SymposionClientUtente.csproj.CoreCompileInputs.cache
+C:\Users\mmart\source\repos\Symposion\SymposionClient\obj\Debug\SymposionClient.exe
+C:\Users\mmart\source\repos\Symposion\SymposionClient\obj\Debug\SymposionClient.pdb
+C:\Users\mmart\source\repos\Symposion\SymposionClient\obj\Debug\SymposionClientUtente.csprojAssemblyReference.cache

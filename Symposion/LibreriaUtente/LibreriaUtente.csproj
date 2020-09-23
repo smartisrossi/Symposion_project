@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{89646FAE-EE2C-4211-A662-819A51CA3597}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Libreria</RootNamespace>
+    <AssemblyName>LibreriaUtente</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connected Services\ServiceReferenceBroker\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="systemClass\BorderLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="systemClass\Classifiche.cs" />
+    <Compile Include="systemClass\Configurazioni.cs" />
+    <Compile Include="systemClass\InserimentoLibro.cs" />
+    <Compile Include="systemClass\Iscrizione.cs" />
+    <Compile Include="systemClass\LaMiaLibreria.cs" />
+    <Compile Include="systemClass\LeMieListe.cs" />
+    <Compile Include="systemClass\LeMieRecensioni.cs" />
+    <Compile Include="systemClass\ListaPubblica.cs" />
+    <Compile Include="systemClass\ListeSalvate.cs" />
+    <Compile Include="systemClass\Login.cs" />
+    <Compile Include="systemClass\RecensionePubblica.cs" />
+    <Compile Include="systemClass\RecensioniSalvate.cs" />
+    <Compile Include="systemClass\RicercaPubblica.cs" />
+    <Compile Include="systemClass\RoundButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="systemClass\SchedaLibro.cs" />
+    <Compile Include="systemClass\SchedaRecensione.cs" />
+    <Compile Include="systemClass\SchedaUtente.cs" />
+    <Compile Include="UtenteService.cs" />
+    <Compile Include="view\ClassificaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\ClassificaView.Designer.cs">
+      <DependentUpon>ClassificaView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\CreazioneLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\CreazioneLista.Designer.cs">
+      <DependentUpon>CreazioneLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\ElencoLibri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\ElencoLibri.Designer.cs">
+      <DependentUpon>ElencoLibri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\ElencoListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\ElencoListe.Designer.cs">
+      <DependentUpon>ElencoListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\ElencoListeUtente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\ElencoListeUtente.Designer.cs">
+      <DependentUpon>ElencoListeUtente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\ElencoRecensioni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\ElencoRecensioni.Designer.cs">
+      <DependentUpon>ElencoRecensioni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\ElencoRecensioniUtente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\ElencoRecensioniUtente.Designer.cs">
+      <DependentUpon>ElencoRecensioniUtente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\GestioneConfigurazioniView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\GestioneConfigurazioniView.Designer.cs">
+      <DependentUpon>GestioneConfigurazioniView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\HomeGestione.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\HomeGestione.designer.cs">
+      <DependentUpon>HomeGestione.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\InserimentoLibroView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\InserimentoLibroView.Designer.cs">
+      <DependentUpon>InserimentoLibroView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\LaMiaLibreriaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\LaMiaLibreriaView.Designer.cs">
+      <DependentUpon>LaMiaLibreriaView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\ListaPubblicaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\ListaPubblicaView.Designer.cs">
+      <DependentUpon>ListaPubblicaView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\ListaVisualizzazione.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\ListaVisualizzazione.Designer.cs">
+      <DependentUpon>ListaVisualizzazione.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\ModificaLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\ModificaLista.Designer.cs">
+      <DependentUpon>ModificaLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\ModificaRecensione.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\ModificaRecensione.Designer.cs">
+      <DependentUpon>ModificaRecensione.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\PubblicaRecensione.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\PubblicaRecensione.Designer.cs">
+      <DependentUpon>PubblicaRecensione.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\RecensioneView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\RecensioneView.Designer.cs">
+      <DependentUpon>RecensioneView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\RicercaPubblicaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\RicercaPubblicaView.Designer.cs">
+      <DependentUpon>RicercaPubblicaView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Salotto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Salotto.designer.cs">
+      <DependentUpon>Salotto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\SchedaLibroView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\SchedaLibroView.Designer.cs">
+      <DependentUpon>SchedaLibroView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\SistemaOperativoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\SistemaOperativoView.Designer.cs">
+      <DependentUpon>SistemaOperativoView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\StatoSistemaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\StatoSistemaView.Designer.cs">
+      <DependentUpon>StatoSistemaView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\UtenteView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\UtenteView.Designer.cs">
+      <DependentUpon>UtenteView.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="view\ClassificaView.resx">
+      <DependentUpon>ClassificaView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\CreazioneLista.resx">
+      <DependentUpon>CreazioneLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\ElencoLibri.resx">
+      <DependentUpon>ElencoLibri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\ElencoListe.resx">
+      <DependentUpon>ElencoListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\ElencoListeUtente.resx">
+      <DependentUpon>ElencoListeUtente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\ElencoRecensioni.resx">
+      <DependentUpon>ElencoRecensioni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\ElencoRecensioniUtente.resx">
+      <DependentUpon>ElencoRecensioniUtente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\GestioneConfigurazioniView.resx">
+      <DependentUpon>GestioneConfigurazioniView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\HomeGestione.resx">
+      <DependentUpon>HomeGestione.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\InserimentoLibroView.resx">
+      <DependentUpon>InserimentoLibroView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\LaMiaLibreriaView.resx">
+      <DependentUpon>LaMiaLibreriaView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\ListaPubblicaView.resx">
+      <DependentUpon>ListaPubblicaView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\ListaVisualizzazione.resx">
+      <DependentUpon>ListaVisualizzazione.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\ModificaLista.resx">
+      <DependentUpon>ModificaLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\ModificaRecensione.resx">
+      <DependentUpon>ModificaRecensione.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\PubblicaRecensione.resx">
+      <DependentUpon>PubblicaRecensione.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\RecensioneView.resx">
+      <DependentUpon>RecensioneView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\RicercaPubblicaView.resx">
+      <DependentUpon>RicercaPubblicaView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Salotto.resx">
+      <DependentUpon>Salotto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\SchedaLibroView.resx">
+      <DependentUpon>SchedaLibroView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\SistemaOperativoView.resx">
+      <DependentUpon>SistemaOperativoView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\StatoSistemaView.resx">
+      <DependentUpon>StatoSistemaView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\UtenteView.resx">
+      <DependentUpon>UtenteView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Connected Services\ServiceReferenceBroker\BrokerService.wsdl" />
+    <None Include="Connected Services\ServiceReferenceBroker\item.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReferenceBroker\item1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReferenceBroker\item2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="output.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\ServiceReferenceBroker\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReferenceBroker\item.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReferenceBroker\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReferenceBroker\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReferenceBroker\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

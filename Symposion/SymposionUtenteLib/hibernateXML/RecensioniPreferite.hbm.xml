@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="SymposionUtenteLib"
+                   namespace="Progetto_Symposion">
+
+  <class name="RecensioniPreferite" table="RecensioniPreferite">
+    <id name="Username" />
+
+    <bag name="RecensioniSalvate" table="RecensioniPref_x_Recensioni">
+      <key column="IdRec"/>
+      <many-to-many class="Recensione">
+        <column name="Id"/>
+      </many-to-many>
+    </bag>
+    
+  </class>
+
+</hibernate-mapping>

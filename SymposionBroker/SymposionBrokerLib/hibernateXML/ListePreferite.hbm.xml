@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="SymposionBrokerLib"
+                   namespace="Progetto_Symposion">
+  <class name="ListePreferite" table="ListePreferite">
+    
+    <id name="Username" />
+    <bag name="ListeSalvate" table="ListePref_x_Liste">
+      <key column="IdLista"/>
+      <many-to-many class="Lista">
+        <column name="Id"/>
+      </many-to-many>
+    </bag>
+
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,11 @@
+C:\Users\mmart\source\repos\Symposion\SymposionServiceHost\bin\Debug\SymposionServiceHost.exe.config
+C:\Users\mmart\source\repos\Symposion\SymposionServiceHost\bin\Debug\SymposionServiceHost.exe
+C:\Users\mmart\source\repos\Symposion\SymposionServiceHost\bin\Debug\SymposionServiceHost.pdb
+C:\Users\mmart\source\repos\Symposion\SymposionServiceHost\bin\Debug\SymposionLib.dll
+C:\Users\mmart\source\repos\Symposion\SymposionServiceHost\bin\Debug\SymposionLib.pdb
+C:\Users\mmart\source\repos\Symposion\SymposionServiceHost\bin\Debug\SymposionLib.dll.config
+C:\Users\mmart\source\repos\Symposion\SymposionServiceHost\obj\Debug\SymposionServiceHost.csprojAssemblyReference.cache
+C:\Users\mmart\source\repos\Symposion\SymposionServiceHost\obj\Debug\SymposionServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\mmart\source\repos\Symposion\SymposionServiceHost\obj\Debug\SymposionServiceHost.csproj.CopyComplete
+C:\Users\mmart\source\repos\Symposion\SymposionServiceHost\obj\Debug\SymposionServiceHost.exe
+C:\Users\mmart\source\repos\Symposion\SymposionServiceHost\obj\Debug\SymposionServiceHost.pdb

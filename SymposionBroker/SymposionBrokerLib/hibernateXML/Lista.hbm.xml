@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="SymposionBrokerLib"
+                   namespace="Progetto_Symposion">
+
+  <class name="Lista" table="Liste
+         ">
+    <id name="Id">
+      <generator class="identity"></generator>
+    </id>
+    <property name="Nome"/>
+    <property name="Gen"/>
+    <property name="IsVisibile"/>
+    <property name="Username"/>
+    <bag name="ListaLibri" table="Lista_x_Libri">
+      <key column="Id"/>
+      <many-to-many class="Libro">
+        <column name="Titolo"/>
+        <column name="Autore"/>
+      </many-to-many>
+    </bag>
+  </class>
+
+</hibernate-mapping>

@@ -1,0 +1,7 @@
+C:\Users\mmart\source\repos\LibreriaUtente\LibreriaUtente\obj\Debug\LibreriaUtente.Properties.Resources.resources
+C:\Users\mmart\source\repos\LibreriaUtente\LibreriaUtente\obj\Debug\Libreria.HomeGestione.resources
+C:\Users\mmart\source\repos\LibreriaUtente\LibreriaUtente\obj\Debug\Libreria.Salotto.resources
+C:\Users\mmart\source\repos\LibreriaUtente\LibreriaUtente\obj\Debug\Libreria.csproj.GenerateResource.cache
+C:\Users\mmart\source\repos\LibreriaUtente\LibreriaUtente\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\mmart\source\repos\LibreriaUtente\LibreriaUtente\obj\Debug\LibreriaUtente.exe
+C:\Users\mmart\source\repos\LibreriaUtente\LibreriaUtente\obj\Debug\LibreriaUtente.pdb

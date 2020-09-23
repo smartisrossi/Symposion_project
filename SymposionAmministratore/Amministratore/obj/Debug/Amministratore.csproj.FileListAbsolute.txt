@@ -1,0 +1,51 @@
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.GestioneConfigurazioniView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.HomeAmministratoreView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.HomeView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.SistemaOperativoView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.StatoSistemaView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\bin\Debug\Amministratore.exe.config
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\bin\Debug\Amministratore.exe
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\bin\Debug\Amministratore.pdb
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.exe
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.pdb
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.SegnalazioniLibriView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.SegnalazioniRecensioniView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.RecensioneSegnalataView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.RecensioneDaEliminareView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.ScadenzaNotificheRecensioniView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.ModificaLibroView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.SchedaLibroView.resources
+C:\Users\ASUS\Desktop\Ingegneria\3 anno\II CICLO\Ingegneria del Software\progetto-Ingegneria Software\C#\ProgettoSymposion\ProgettoSymposion\Amministratore\obj\Debug\Amministratore.csprojAssemblyReference.cache
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.csprojAssemblyReference.cache
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.Properties.Resources.resources
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.GestioneConfigurazioniView.resources
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.HomeAmministratoreView.resources
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.HomeView.resources
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.ModificaLibroView.resources
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.RecensioneDaEliminareView.resources
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.RecensioneSegnalataView.resources
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.SchedaLibroView.resources
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.SegnalazioniLibriView.resources
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.SistemaOperativoView.resources
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.StatoSistemaView.resources
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.csproj.GenerateResource.cache
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.csproj.CoreCompileInputs.cache
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.exe
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.pdb
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\bin\Debug\Amministratore.exe.config
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\bin\Debug\Amministratore.exe
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\bin\Debug\Amministratore.pdb
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\obj\Debug\Amministratore.csproj.CopyComplete
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\bin\Debug\Antlr3.Runtime.dll
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\bin\Debug\Iesi.Collections.dll
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\bin\Debug\Remotion.Linq.dll
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\bin\Debug\Antlr3.Runtime.xml
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\bin\Debug\Iesi.Collections.xml
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\bin\Debug\Remotion.Linq.xml
+C:\Users\mmart\source\repos\SymposionAmministratore\Amministratore\bin\Debug\Remotion.Linq.EagerFetching.xml

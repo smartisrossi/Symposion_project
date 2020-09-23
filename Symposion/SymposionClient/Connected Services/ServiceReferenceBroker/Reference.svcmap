@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d139bc42-9b2b-4337-b1b1-adf867b8b7ce" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8001/SymposionBroker/BrokerService/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="4e2cd283-8483-4b69-96b6-bf44d5385ec8" SourceId="1" SourceUrl="http://localhost:8001/SymposionBroker/BrokerService/?xsd=xsd1" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="f1a07083-d37f-4ef7-9027-3e0acf5a6860" SourceId="1" SourceUrl="http://localhost:8001/SymposionBroker/BrokerService/?xsd=xsd0" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="802065e5-10d8-4f63-a90b-f53e45b71944" SourceId="1" SourceUrl="http://localhost:8001/SymposionBroker/BrokerService/?disco" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="2ea1d8c2-9e3e-4360-bb26-45fc4eb6d743" SourceId="1" SourceUrl="http://localhost:8001/SymposionBroker/BrokerService/?xsd=xsd2" />
+    <MetadataFile FileName="BrokerService.wsdl" MetadataType="Wsdl" ID="afef4206-2a0f-4580-a3bf-a2afe1853821" SourceId="1" SourceUrl="http://localhost:8001/SymposionBroker/BrokerService/?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
