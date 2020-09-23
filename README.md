@@ -7,3 +7,5 @@ The system is developed following the Model-View-Presenter pattern and it is sub
 
 The following image illustrates the application structure.
 
+![Alt text](ArchitetturaSistema_Package.jpg?raw=true "System architecture")
+
