@@ -10,6 +10,6 @@ The following image illustrates the application structure.
 
 <img src=ArchitetturaSistema_Package.jpg width="65%">
 
-Project developed by [Martina Rossi](https://github.com/smartisrossi), [Letizia Mancini](https://github.com/llevtizia) and Andrea Mocellin.
+Project developed by [Martina Rossi](https://github.com/smartisrossi), [Letizia Mancini](https://github.com/llevtizia) and [Andrea Mocellin](https://github.com/AndreaMoc).
 
 
